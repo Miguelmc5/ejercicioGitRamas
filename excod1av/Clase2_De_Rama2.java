@@ -6,6 +6,6 @@ package excod1av;
  */
 public class Clase2_De_Rama2 {
 
-    System.out.println("holita");
+   
+    
 }
-
